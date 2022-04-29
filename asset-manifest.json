@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MusicTestReact/static/css/main.6961536b.css",
-    "main.js": "/MusicTestReact/static/js/main.2733e677.js",
-    "index.html": "/MusicTestReact/index.html",
-    "main.6961536b.css.map": "/MusicTestReact/static/css/main.6961536b.css.map",
-    "main.2733e677.js.map": "/MusicTestReact/static/js/main.2733e677.js.map"
+    "main.css": "/TestFilmes2React/static/css/main.6961536b.css",
+    "main.js": "/TestFilmes2React/static/js/main.2733e677.js",
+    "index.html": "/TestFilmes2React/index.html",
+    "main.6961536b.css.map": "/TestFilmes2React/static/css/main.6961536b.css.map",
+    "main.2733e677.js.map": "/TestFilmes2React/static/js/main.2733e677.js.map"
   },
   "entrypoints": [
     "static/css/main.6961536b.css",
